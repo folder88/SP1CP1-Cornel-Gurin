@@ -1,0 +1,77 @@
+.img {
+  position: absolute;
+  top: 300px;
+  left: 600px;
+}
+.background {
+  background-color: #dcdcdc;
+  width: 99vw;
+  height: 400px;
+}
+.info {
+  position: absolute;
+  top: 400px;
+  left: 950px;
+}
+p {
+  font-size: 18px;
+  line-height: 2em;
+  margin-bottom: 32px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.footer {
+  width: 100vw;
+  display: block;
+  overflow: hidden;
+  padding: 70px 0;
+  box-sizing: border-box;
+  background-color: rgb(68, 68, 68);
+}
+.footer2 {
+  position: absolute;
+  top: 1300px;
+  left: 0px;
+  width: 100vw;
+
+  overflow: hidden;
+  padding: 70px 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+.inner_footer .logo_container img {
+  width: 65px;
+  height: auto;
+  position: relative;
+  top: 0px;
+  left: 50vw;
+}
+.personal_description {
+  color: blue;
+}
+h1 {
+  text-align: center;
+}
+#image {
+  display: block;
+  margin-left: 800px;
+  margin-right: auto;
+}
+.three {
+  border: none;
+  border-top: 0.5px solid gray;
+}
+.icons {
+  position: relative;
+  left: 30px;
+}
+.adress {
+  text-align: center;
+  background-color: rgb(194, 187, 187);
+}
+nav {
+  text-align: center;
+}
+.nav-link {
+  font-size: 150%;
+}
